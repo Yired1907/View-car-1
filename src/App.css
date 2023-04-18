@@ -1,0 +1,15 @@
+.mb-5 {
+    margin-bottom: 3rem !important;
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+.feature {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+    border-radius: 10px !important;
+}
+

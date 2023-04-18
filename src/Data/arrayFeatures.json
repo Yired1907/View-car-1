@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "title": "Crystal Black",
+      "type": "Pearl",
+      "img": "./images/icons/icon-black.png",
+      "srcImg": "images-black/images-black-1/",
+      "color": "Black",
+      "price": "19,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "images-black/images-black-1/"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "images-black/images-black-2/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sea Blue",
+      "type": "Metallic",
+      "img": "./images/icons/icon-blue.png",
+      "srcImg": "images-blue/images-blue-1/",
+      "color": "Blue",
+      "price": "20,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "images-blue/images-blue-1/"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "images-blue/images-blue-2/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lunar Silver",
+      "type": "Metallic",
+      "img": "./images/icons/icon-silver.png",
+      "srcImg": "images-silver/images-silver-1/",
+      "color": "Silver",
+      "price": "21,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "images-silver/images-silver-1/"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "images-silver/images-silver-2/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Rallye Red",
+      "type": "Metallic",
+      "img": "./images/icons/icon-red.png",
+      "srcImg": "images-red/images-red-1/",
+      "color": "Red",
+      "price": "22,550",
+      "engineType": "In-Line 4-Cylinder",
+      "displacement": "1996 cc",
+      "horsepower": "158 @ 6500 rpm",
+      "torque": "138 lb-ft @ 4200 rpm",
+      "redline": "6700 rpm",
+      "wheels": [
+        {
+          "idWheel": 1,
+          "srcImg": "images-red/images-red-1/"
+        },
+        {
+          "idWheel": 2,
+          "srcImg": "images-red/images-red-2/"
+        }
+      ]
+    }
+  ]
