@@ -77,7 +77,7 @@ export default class Chonxechitiet extends Component {
           <div className="col-2">
             <img
               className="p-3"
-              style={{ width: "100%" }}
+              style={{ width: "80px" }}
               src={item.img}
               alt={index}
             />
